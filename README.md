@@ -1,4 +1,3 @@
 # js-stuff
  
-
-#yeah
+this is for the odin project please ignore
